@@ -4,21 +4,6 @@
   "note": "young-thread queue (54-181)"
  },
  "threads": {
-  "197399": {
-   "title": "Украинские надписи в Припяти",
-   "slug": "197399-ukrainskie-nadpisi-v-pripyati",
-   "createdAt": "2026-10-31T16:11:30+00:00",
-   "op_user": "?",
-   "stm": false,
-   "discovered_at": "2026-10-31T16:13:38Z",
-   "source": "snap15-reconcile",
-   "until_ts": "2026-10-31T18:13:30Z",
-   "last_lpn": 20,
-   "last_cc": 18,
-   "checks": 8,
-   "fails": 0,
-   "last_checked": "2026-10-31T18:13:09Z"
-  },
   "197400": {
    "title": "Однажды у ск будет конкурент и разраб начнёт работать ",
    "slug": "197400-odnazhdy-u-sk-budet-konkurent-i-razrab-nachnyot-rabotat",
@@ -31,7 +16,7 @@
    "last_lpn": 1,
    "last_cc": 1,
    "checks": 0,
-   "fails": 5,
+   "fails": 6,
    "last_error": "404"
   },
   "197402": {
@@ -43,11 +28,11 @@
    "discovered_at": "2026-10-31T17:13:14Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T19:13:07Z",
-   "last_lpn": 33,
-   "last_cc": 33,
-   "checks": 4,
+   "last_lpn": 37,
+   "last_cc": 37,
+   "checks": 5,
    "fails": 0,
-   "last_checked": "2026-10-31T18:13:12Z"
+   "last_checked": "2026-10-31T18:28:15Z"
   },
   "197401": {
    "title": "Однажды у ск будет конкурент, что придётся им работать ",
@@ -60,9 +45,9 @@
    "until_ts": "2026-10-31T19:13:07Z",
    "last_lpn": 2,
    "last_cc": 2,
-   "checks": 4,
+   "checks": 5,
    "fails": 0,
-   "last_checked": "2026-10-31T18:13:14Z"
+   "last_checked": "2026-10-31T18:28:17Z"
   },
   "197403": {
    "title": "А что с фпс ?",
@@ -75,9 +60,9 @@
    "until_ts": "2026-10-31T19:28:09Z",
    "last_lpn": 1,
    "last_cc": 1,
-   "checks": 3,
+   "checks": 4,
    "fails": 0,
-   "last_checked": "2026-10-31T18:13:15Z"
+   "last_checked": "2026-10-31T18:28:18Z"
   },
   "197404": {
    "title": "Редкий экран суицида",
@@ -88,11 +73,24 @@
    "discovered_at": "2026-10-31T17:43:18Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T19:43:07Z",
-   "last_lpn": 7,
-   "last_cc": 7,
-   "checks": 2,
+   "last_lpn": 8,
+   "last_cc": 8,
+   "checks": 3,
    "fails": 0,
-   "last_checked": "2026-10-31T18:13:17Z"
+   "last_checked": "2026-10-31T18:28:20Z"
+  },
+  "197406": {
+   "title": "Повайбкодим пацаны",
+   "slug": "197406-povaybkodim-patsany",
+   "createdAt": "2026-10-31T18:28:09+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T18:28:22Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T20:28:11Z",
+   "last_lpn": 1,
+   "last_cc": 1,
+   "checks": 0
   }
  },
  "graduated": {
@@ -401,6 +399,23 @@
    "last_checked": "2026-10-31T16:43:08Z",
    "graduated_at": "2026-10-31T17:01:05Z",
    "checks_done": 7
+  },
+  "197399": {
+   "title": "Украинские надписи в Припяти",
+   "slug": "197399-ukrainskie-nadpisi-v-pripyati",
+   "createdAt": "2026-10-31T16:11:30+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T16:13:38Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T18:13:30Z",
+   "last_lpn": 20,
+   "last_cc": 18,
+   "checks": 8,
+   "fails": 0,
+   "last_checked": "2026-10-31T18:13:09Z",
+   "graduated_at": "2026-10-31T18:28:12Z",
+   "checks_done": 8
   }
  }
 }
