@@ -4,51 +4,6 @@
   "note": "young-thread queue (54-181)"
  },
  "threads": {
-  "197400": {
-   "title": "Однажды у ск будет конкурент и разраб начнёт работать ",
-   "slug": "197400-odnazhdy-u-sk-budet-konkurent-i-razrab-nachnyot-rabotat",
-   "createdAt": "2026-10-31T16:58:06+00:00",
-   "op_user": "?",
-   "stm": false,
-   "discovered_at": "2026-10-31T17:01:10Z",
-   "source": "snap15-reconcile",
-   "until_ts": "2026-10-31T19:01:05Z",
-   "last_lpn": 1,
-   "last_cc": 1,
-   "checks": 0,
-   "fails": 8,
-   "last_error": "404"
-  },
-  "197402": {
-   "title": "Однажды у ск будет конкурент, что придётся им работать ",
-   "slug": "197402-odnazhdy-u-sk-budet-konkurent-chto-pridyotsya-im-rabotat",
-   "createdAt": "2026-10-31T17:07:37+00:00",
-   "op_user": "?",
-   "stm": false,
-   "discovered_at": "2026-10-31T17:13:14Z",
-   "source": "snap15-reconcile",
-   "until_ts": "2026-10-31T19:13:07Z",
-   "last_lpn": 42,
-   "last_cc": 42,
-   "checks": 7,
-   "fails": 0,
-   "last_checked": "2026-10-31T19:00:02Z"
-  },
-  "197401": {
-   "title": "Однажды у ск будет конкурент, что придётся им работать ",
-   "slug": "197401-odnazhdy-u-sk-budet-konkurent-chto-pridyotsya-im-rabotat",
-   "createdAt": "2026-10-31T17:07:06+00:00",
-   "op_user": "?",
-   "stm": false,
-   "discovered_at": "2026-10-31T17:13:14Z",
-   "source": "snap15-reconcile",
-   "until_ts": "2026-10-31T19:13:07Z",
-   "last_lpn": 2,
-   "last_cc": 2,
-   "checks": 7,
-   "fails": 0,
-   "last_checked": "2026-10-31T19:00:04Z"
-  },
   "197403": {
    "title": "А что с фпс ?",
    "slug": "197403-a-chto-s-fps",
@@ -60,9 +15,9 @@
    "until_ts": "2026-10-31T19:28:09Z",
    "last_lpn": 1,
    "last_cc": 1,
-   "checks": 6,
+   "checks": 7,
    "fails": 0,
-   "last_checked": "2026-10-31T19:00:05Z"
+   "last_checked": "2026-10-31T19:13:16Z"
   },
   "197404": {
    "title": "Редкий экран суицида",
@@ -75,9 +30,9 @@
    "until_ts": "2026-10-31T19:43:07Z",
    "last_lpn": 10,
    "last_cc": 10,
-   "checks": 5,
+   "checks": 6,
    "fails": 0,
-   "last_checked": "2026-10-31T19:00:07Z"
+   "last_checked": "2026-10-31T19:13:18Z"
   },
   "197406": {
    "title": "Повайбкодим пацаны",
@@ -90,9 +45,9 @@
    "until_ts": "2026-10-31T20:28:11Z",
    "last_lpn": 6,
    "last_cc": 6,
-   "checks": 2,
+   "checks": 3,
    "fails": 0,
-   "last_checked": "2026-10-31T19:00:09Z"
+   "last_checked": "2026-10-31T19:13:20Z"
   },
   "197408": {
    "title": "Куда писать на счёт вылазов через текстуры как баг?",
@@ -105,9 +60,9 @@
    "until_ts": "2026-10-31T20:43:09Z",
    "last_lpn": 3,
    "last_cc": 3,
-   "checks": 1,
+   "checks": 2,
    "fails": 0,
-   "last_checked": "2026-10-31T19:00:10Z"
+   "last_checked": "2026-10-31T19:13:22Z"
   },
   "197407": {
    "title": "Что за дизинфа (Квест Ударная Волна)",
@@ -118,11 +73,11 @@
    "discovered_at": "2026-10-31T18:43:21Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T20:43:09Z",
-   "last_lpn": 4,
-   "last_cc": 4,
-   "checks": 1,
+   "last_lpn": 7,
+   "last_cc": 7,
+   "checks": 2,
    "fails": 0,
-   "last_checked": "2026-10-31T19:00:12Z"
+   "last_checked": "2026-10-31T19:13:23Z"
   }
  },
  "graduated": {
@@ -448,6 +403,57 @@
    "last_checked": "2026-10-31T18:13:09Z",
    "graduated_at": "2026-10-31T18:28:12Z",
    "checks_done": 8
+  },
+  "197400": {
+   "title": "Однажды у ск будет конкурент и разраб начнёт работать ",
+   "slug": "197400-odnazhdy-u-sk-budet-konkurent-i-razrab-nachnyot-rabotat",
+   "createdAt": "2026-10-31T16:58:06+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T17:01:10Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T19:01:05Z",
+   "last_lpn": 1,
+   "last_cc": 1,
+   "checks": 0,
+   "fails": 8,
+   "last_error": "404",
+   "graduated_at": "2026-10-31T19:13:15Z",
+   "checks_done": 0
+  },
+  "197401": {
+   "title": "Однажды у ск будет конкурент, что придётся им работать ",
+   "slug": "197401-odnazhdy-u-sk-budet-konkurent-chto-pridyotsya-im-rabotat",
+   "createdAt": "2026-10-31T17:07:06+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T17:13:14Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T19:13:07Z",
+   "last_lpn": 2,
+   "last_cc": 2,
+   "checks": 7,
+   "fails": 0,
+   "last_checked": "2026-10-31T19:00:04Z",
+   "graduated_at": "2026-10-31T19:13:15Z",
+   "checks_done": 7
+  },
+  "197402": {
+   "title": "Однажды у ск будет конкурент, что придётся им работать ",
+   "slug": "197402-odnazhdy-u-sk-budet-konkurent-chto-pridyotsya-im-rabotat",
+   "createdAt": "2026-10-31T17:07:37+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T17:13:14Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T19:13:07Z",
+   "last_lpn": 42,
+   "last_cc": 42,
+   "checks": 7,
+   "fails": 0,
+   "last_checked": "2026-10-31T19:00:02Z",
+   "graduated_at": "2026-10-31T19:13:15Z",
+   "checks_done": 7
   }
  }
 }
