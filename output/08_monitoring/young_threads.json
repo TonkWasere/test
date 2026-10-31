@@ -4,21 +4,6 @@
   "note": "young-thread queue (54-181)"
  },
  "threads": {
-  "197393": {
-   "title": "Штенников не принимает детали",
-   "slug": "197393-shtennikov-ne-prinimaet-detali",
-   "createdAt": "2026-10-31T13:22:13+00:00",
-   "op_user": "?",
-   "stm": false,
-   "discovered_at": "2026-10-31T13:28:23Z",
-   "source": "snap15-reconcile",
-   "until_ts": "2026-10-31T15:28:06Z",
-   "last_lpn": 8,
-   "last_cc": 7,
-   "checks": 7,
-   "fails": 0,
-   "last_checked": "2026-10-31T15:13:16Z"
-  },
   "197395": {
    "title": "Наказание для ПК",
    "slug": "197395-nakazanie-dlya-pk",
@@ -28,11 +13,11 @@
    "discovered_at": "2026-10-31T14:02:31Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T16:02:16Z",
-   "last_lpn": 32,
-   "last_cc": 32,
-   "checks": 5,
+   "last_lpn": 40,
+   "last_cc": 40,
+   "checks": 6,
    "fails": 0,
-   "last_checked": "2026-10-31T15:13:18Z"
+   "last_checked": "2026-10-31T15:28:13Z"
   },
   "197394": {
    "title": "Билды на Арене",
@@ -45,9 +30,9 @@
    "until_ts": "2026-10-31T16:02:16Z",
    "last_lpn": 9,
    "last_cc": 9,
-   "checks": 5,
+   "checks": 6,
    "fails": 0,
-   "last_checked": "2026-10-31T15:13:21Z"
+   "last_checked": "2026-10-31T15:28:14Z"
   },
   "197396": {
    "title": "Тупорылейшая СИСТЕМА БАНОВ из за КНОПОЧКИ N прервать поиск матча",
@@ -58,11 +43,11 @@
    "discovered_at": "2026-10-31T14:21:12Z",
    "source": "snap35",
    "until_ts": "2026-10-31T16:21:12Z",
-   "last_lpn": 14,
-   "last_cc": 13,
-   "checks": 4,
+   "last_lpn": 17,
+   "last_cc": 16,
+   "checks": 5,
    "fails": 0,
-   "last_checked": "2026-10-31T15:13:22Z"
+   "last_checked": "2026-10-31T15:28:16Z"
   },
   "197398": {
    "title": "До какого тира сможет дойти средний игрок в сталзон за месяц?",
@@ -75,9 +60,9 @@
    "until_ts": "2026-10-31T17:00:30Z",
    "last_lpn": 3,
    "last_cc": 3,
-   "checks": 1,
+   "checks": 2,
    "fails": 0,
-   "last_checked": "2026-10-31T15:13:24Z"
+   "last_checked": "2026-10-31T15:28:18Z"
   },
   "197397": {
    "title": "Самая умная мысль ",
@@ -88,11 +73,11 @@
    "discovered_at": "2026-10-31T15:00:40Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T17:00:30Z",
-   "last_lpn": 4,
-   "last_cc": 4,
-   "checks": 1,
+   "last_lpn": 5,
+   "last_cc": 5,
+   "checks": 2,
    "fails": 0,
-   "last_checked": "2026-10-31T15:13:26Z"
+   "last_checked": "2026-10-31T15:28:20Z"
   }
  },
  "graduated": {
@@ -299,6 +284,23 @@
    "last_checked": "2026-10-31T14:43:12Z",
    "graduated_at": "2026-10-31T15:00:30Z",
    "checks_done": 8
+  },
+  "197393": {
+   "title": "Штенников не принимает детали",
+   "slug": "197393-shtennikov-ne-prinimaet-detali",
+   "createdAt": "2026-10-31T13:22:13+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T13:28:23Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T15:28:06Z",
+   "last_lpn": 8,
+   "last_cc": 7,
+   "checks": 7,
+   "fails": 0,
+   "last_checked": "2026-10-31T15:13:16Z",
+   "graduated_at": "2026-10-31T15:28:11Z",
+   "checks_done": 7
   }
  }
 }
