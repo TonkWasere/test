@@ -15,9 +15,9 @@
    "until_ts": "2026-10-31T19:28:09Z",
    "last_lpn": 1,
    "last_cc": 1,
-   "checks": 7,
+   "checks": 8,
    "fails": 0,
-   "last_checked": "2026-10-31T19:13:16Z"
+   "last_checked": "2026-10-31T19:28:07Z"
   },
   "197404": {
    "title": "Редкий экран суицида",
@@ -30,9 +30,9 @@
    "until_ts": "2026-10-31T19:43:07Z",
    "last_lpn": 10,
    "last_cc": 10,
-   "checks": 6,
+   "checks": 7,
    "fails": 0,
-   "last_checked": "2026-10-31T19:13:18Z"
+   "last_checked": "2026-10-31T19:28:09Z"
   },
   "197406": {
    "title": "Повайбкодим пацаны",
@@ -45,9 +45,9 @@
    "until_ts": "2026-10-31T20:28:11Z",
    "last_lpn": 6,
    "last_cc": 6,
-   "checks": 3,
+   "checks": 4,
    "fails": 0,
-   "last_checked": "2026-10-31T19:13:20Z"
+   "last_checked": "2026-10-31T19:28:10Z"
   },
   "197408": {
    "title": "Куда писать на счёт вылазов через текстуры как баг?",
@@ -60,9 +60,9 @@
    "until_ts": "2026-10-31T20:43:09Z",
    "last_lpn": 3,
    "last_cc": 3,
-   "checks": 2,
+   "checks": 3,
    "fails": 0,
-   "last_checked": "2026-10-31T19:13:22Z"
+   "last_checked": "2026-10-31T19:28:12Z"
   },
   "197407": {
    "title": "Что за дизинфа (Квест Ударная Волна)",
@@ -73,11 +73,11 @@
    "discovered_at": "2026-10-31T18:43:21Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T20:43:09Z",
-   "last_lpn": 7,
-   "last_cc": 7,
-   "checks": 2,
+   "last_lpn": 8,
+   "last_cc": 8,
+   "checks": 3,
    "fails": 0,
-   "last_checked": "2026-10-31T19:13:23Z"
+   "last_checked": "2026-10-31T19:28:14Z"
   }
  },
  "graduated": {
