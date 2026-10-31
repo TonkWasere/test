@@ -4,36 +4,6 @@
   "note": "young-thread queue (54-181)"
  },
  "threads": {
-  "197395": {
-   "title": "Наказание для ПК",
-   "slug": "197395-nakazanie-dlya-pk",
-   "createdAt": "2026-10-31T13:54:43+00:00",
-   "op_user": "?",
-   "stm": false,
-   "discovered_at": "2026-10-31T14:02:31Z",
-   "source": "snap15-reconcile",
-   "until_ts": "2026-10-31T16:02:16Z",
-   "last_lpn": 41,
-   "last_cc": 41,
-   "checks": 8,
-   "fails": 0,
-   "last_checked": "2026-10-31T16:00:01Z"
-  },
-  "197394": {
-   "title": "Билды на Арене",
-   "slug": "197394-bildy-na-arene",
-   "createdAt": "2026-10-31T13:52:09+00:00",
-   "op_user": "?",
-   "stm": false,
-   "discovered_at": "2026-10-31T14:02:31Z",
-   "source": "snap15-reconcile",
-   "until_ts": "2026-10-31T16:02:16Z",
-   "last_lpn": 9,
-   "last_cc": 9,
-   "checks": 8,
-   "fails": 0,
-   "last_checked": "2026-10-31T16:00:03Z"
-  },
   "197396": {
    "title": "Тупорылейшая СИСТЕМА БАНОВ из за КНОПОЧКИ N прервать поиск матча",
    "slug": "197396-tuporyleyshaya-sistema-banov-iz-za-knopochki-n-prervat-poisk-matcha",
@@ -45,9 +15,9 @@
    "until_ts": "2026-10-31T16:21:12Z",
    "last_lpn": 20,
    "last_cc": 19,
-   "checks": 7,
+   "checks": 8,
    "fails": 0,
-   "last_checked": "2026-10-31T16:00:06Z"
+   "last_checked": "2026-10-31T16:13:32Z"
   },
   "197398": {
    "title": "До какого тира сможет дойти средний игрок в сталзон за месяц?",
@@ -58,11 +28,11 @@
    "discovered_at": "2026-10-31T15:00:40Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T17:00:30Z",
-   "last_lpn": 10,
-   "last_cc": 10,
-   "checks": 4,
+   "last_lpn": 11,
+   "last_cc": 11,
+   "checks": 5,
    "fails": 0,
-   "last_checked": "2026-10-31T16:00:07Z"
+   "last_checked": "2026-10-31T16:13:34Z"
   },
   "197397": {
    "title": "Самая умная мысль ",
@@ -75,9 +45,22 @@
    "until_ts": "2026-10-31T17:00:30Z",
    "last_lpn": 7,
    "last_cc": 7,
-   "checks": 4,
+   "checks": 5,
    "fails": 0,
-   "last_checked": "2026-10-31T16:00:09Z"
+   "last_checked": "2026-10-31T16:13:36Z"
+  },
+  "197399": {
+   "title": "Украинские надписи в Припяти",
+   "slug": "197399-ukrainskie-nadpisi-v-pripyati",
+   "createdAt": "2026-10-31T16:11:30+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T16:13:38Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T18:13:30Z",
+   "last_lpn": 3,
+   "last_cc": 3,
+   "checks": 0
   }
  },
  "graduated": {
@@ -301,6 +284,40 @@
    "last_checked": "2026-10-31T15:13:16Z",
    "graduated_at": "2026-10-31T15:28:11Z",
    "checks_done": 7
+  },
+  "197394": {
+   "title": "Билды на Арене",
+   "slug": "197394-bildy-na-arene",
+   "createdAt": "2026-10-31T13:52:09+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T14:02:31Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T16:02:16Z",
+   "last_lpn": 9,
+   "last_cc": 9,
+   "checks": 8,
+   "fails": 0,
+   "last_checked": "2026-10-31T16:00:03Z",
+   "graduated_at": "2026-10-31T16:13:30Z",
+   "checks_done": 8
+  },
+  "197395": {
+   "title": "Наказание для ПК",
+   "slug": "197395-nakazanie-dlya-pk",
+   "createdAt": "2026-10-31T13:54:43+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T14:02:31Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T16:02:16Z",
+   "last_lpn": 41,
+   "last_cc": 41,
+   "checks": 8,
+   "fails": 0,
+   "last_checked": "2026-10-31T16:00:01Z",
+   "graduated_at": "2026-10-31T16:13:30Z",
+   "checks_done": 8
   }
  }
 }
