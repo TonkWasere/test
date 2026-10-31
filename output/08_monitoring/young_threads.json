@@ -4,36 +4,6 @@
   "note": "young-thread queue (54-181)"
  },
  "threads": {
-  "197403": {
-   "title": "А что с фпс ?",
-   "slug": "197403-a-chto-s-fps",
-   "createdAt": "2026-10-31T17:27:56+00:00",
-   "op_user": "?",
-   "stm": false,
-   "discovered_at": "2026-10-31T17:28:18Z",
-   "source": "snap15-reconcile",
-   "until_ts": "2026-10-31T19:28:09Z",
-   "last_lpn": 1,
-   "last_cc": 1,
-   "checks": 8,
-   "fails": 0,
-   "last_checked": "2026-10-31T19:28:07Z"
-  },
-  "197404": {
-   "title": "Редкий экран суицида",
-   "slug": "197404-redkiy-ekran-suitsida",
-   "createdAt": "2026-10-31T17:34:42+00:00",
-   "op_user": "?",
-   "stm": false,
-   "discovered_at": "2026-10-31T17:43:18Z",
-   "source": "snap15-reconcile",
-   "until_ts": "2026-10-31T19:43:07Z",
-   "last_lpn": 10,
-   "last_cc": 10,
-   "checks": 7,
-   "fails": 0,
-   "last_checked": "2026-10-31T19:28:09Z"
-  },
   "197406": {
    "title": "Повайбкодим пацаны",
    "slug": "197406-povaybkodim-patsany",
@@ -45,9 +15,9 @@
    "until_ts": "2026-10-31T20:28:11Z",
    "last_lpn": 6,
    "last_cc": 6,
-   "checks": 4,
+   "checks": 5,
    "fails": 0,
-   "last_checked": "2026-10-31T19:28:10Z"
+   "last_checked": "2026-10-31T19:43:10Z"
   },
   "197408": {
    "title": "Куда писать на счёт вылазов через текстуры как баг?",
@@ -60,9 +30,9 @@
    "until_ts": "2026-10-31T20:43:09Z",
    "last_lpn": 3,
    "last_cc": 3,
-   "checks": 3,
+   "checks": 4,
    "fails": 0,
-   "last_checked": "2026-10-31T19:28:12Z"
+   "last_checked": "2026-10-31T19:43:11Z"
   },
   "197407": {
    "title": "Что за дизинфа (Квест Ударная Волна)",
@@ -73,11 +43,11 @@
    "discovered_at": "2026-10-31T18:43:21Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T20:43:09Z",
-   "last_lpn": 8,
-   "last_cc": 8,
-   "checks": 3,
+   "last_lpn": 9,
+   "last_cc": 9,
+   "checks": 4,
    "fails": 0,
-   "last_checked": "2026-10-31T19:28:14Z"
+   "last_checked": "2026-10-31T19:43:13Z"
   }
  },
  "graduated": {
@@ -453,6 +423,40 @@
    "fails": 0,
    "last_checked": "2026-10-31T19:00:02Z",
    "graduated_at": "2026-10-31T19:13:15Z",
+   "checks_done": 7
+  },
+  "197403": {
+   "title": "А что с фпс ?",
+   "slug": "197403-a-chto-s-fps",
+   "createdAt": "2026-10-31T17:27:56+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T17:28:18Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T19:28:09Z",
+   "last_lpn": 1,
+   "last_cc": 1,
+   "checks": 8,
+   "fails": 0,
+   "last_checked": "2026-10-31T19:28:07Z",
+   "graduated_at": "2026-10-31T19:43:08Z",
+   "checks_done": 8
+  },
+  "197404": {
+   "title": "Редкий экран суицида",
+   "slug": "197404-redkiy-ekran-suitsida",
+   "createdAt": "2026-10-31T17:34:42+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T17:43:18Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T19:43:07Z",
+   "last_lpn": 10,
+   "last_cc": 10,
+   "checks": 7,
+   "fails": 0,
+   "last_checked": "2026-10-31T19:28:09Z",
+   "graduated_at": "2026-10-31T19:43:08Z",
    "checks_done": 7
   }
  }
