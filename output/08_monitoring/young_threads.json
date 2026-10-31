@@ -15,9 +15,9 @@
    "until_ts": "2026-10-31T17:00:30Z",
    "last_lpn": 11,
    "last_cc": 11,
-   "checks": 6,
+   "checks": 7,
    "fails": 0,
-   "last_checked": "2026-10-31T16:28:07Z"
+   "last_checked": "2026-10-31T16:43:08Z"
   },
   "197397": {
    "title": "Самая умная мысль ",
@@ -30,9 +30,9 @@
    "until_ts": "2026-10-31T17:00:30Z",
    "last_lpn": 7,
    "last_cc": 7,
-   "checks": 6,
+   "checks": 7,
    "fails": 0,
-   "last_checked": "2026-10-31T16:28:09Z"
+   "last_checked": "2026-10-31T16:43:09Z"
   },
   "197399": {
    "title": "Украинские надписи в Припяти",
@@ -43,11 +43,11 @@
    "discovered_at": "2026-10-31T16:13:38Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T18:13:30Z",
-   "last_lpn": 7,
-   "last_cc": 7,
-   "checks": 1,
+   "last_lpn": 9,
+   "last_cc": 9,
+   "checks": 2,
    "fails": 0,
-   "last_checked": "2026-10-31T16:28:11Z"
+   "last_checked": "2026-10-31T16:43:11Z"
   }
  },
  "graduated": {
