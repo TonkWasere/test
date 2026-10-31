@@ -15,9 +15,9 @@
    "until_ts": "2026-10-31T15:28:06Z",
    "last_lpn": 8,
    "last_cc": 7,
-   "checks": 6,
+   "checks": 7,
    "fails": 0,
-   "last_checked": "2026-10-31T15:00:32Z"
+   "last_checked": "2026-10-31T15:13:16Z"
   },
   "197395": {
    "title": "Наказание для ПК",
@@ -28,11 +28,11 @@
    "discovered_at": "2026-10-31T14:02:31Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T16:02:16Z",
-   "last_lpn": 29,
-   "last_cc": 29,
-   "checks": 4,
+   "last_lpn": 32,
+   "last_cc": 32,
+   "checks": 5,
    "fails": 0,
-   "last_checked": "2026-10-31T15:00:34Z"
+   "last_checked": "2026-10-31T15:13:18Z"
   },
   "197394": {
    "title": "Билды на Арене",
@@ -45,9 +45,9 @@
    "until_ts": "2026-10-31T16:02:16Z",
    "last_lpn": 9,
    "last_cc": 9,
-   "checks": 4,
+   "checks": 5,
    "fails": 0,
-   "last_checked": "2026-10-31T15:00:36Z"
+   "last_checked": "2026-10-31T15:13:21Z"
   },
   "197396": {
    "title": "Тупорылейшая СИСТЕМА БАНОВ из за КНОПОЧКИ N прервать поиск матча",
@@ -60,9 +60,9 @@
    "until_ts": "2026-10-31T16:21:12Z",
    "last_lpn": 14,
    "last_cc": 13,
-   "checks": 3,
+   "checks": 4,
    "fails": 0,
-   "last_checked": "2026-10-31T15:00:38Z"
+   "last_checked": "2026-10-31T15:13:22Z"
   },
   "197398": {
    "title": "До какого тира сможет дойти средний игрок в сталзон за месяц?",
@@ -73,9 +73,11 @@
    "discovered_at": "2026-10-31T15:00:40Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T17:00:30Z",
-   "last_lpn": 1,
-   "last_cc": 1,
-   "checks": 0
+   "last_lpn": 3,
+   "last_cc": 3,
+   "checks": 1,
+   "fails": 0,
+   "last_checked": "2026-10-31T15:13:24Z"
   },
   "197397": {
    "title": "Самая умная мысль ",
@@ -86,9 +88,11 @@
    "discovered_at": "2026-10-31T15:00:40Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T17:00:30Z",
-   "last_lpn": 1,
-   "last_cc": 1,
-   "checks": 0
+   "last_lpn": 4,
+   "last_cc": 4,
+   "checks": 1,
+   "fails": 0,
+   "last_checked": "2026-10-31T15:13:26Z"
   }
  },
  "graduated": {
