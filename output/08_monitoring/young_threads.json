@@ -123,6 +123,19 @@
    "checks": 1,
    "fails": 0,
    "last_checked": "2026-10-31T14:13:21Z"
+  },
+  "197396": {
+   "title": "Тупорылейшая СИСТЕМА БАНОВ из за КНОПОЧКИ N прервать поиск матча",
+   "slug": "197396-tuporyleyshaya-sistema-banov-iz-za-knopochki-n-prervat-poisk-matcha",
+   "createdAt": "2026-10-31T14:15:38+00:00",
+   "op_user": "stm:76561199151839200",
+   "stm": true,
+   "discovered_at": "2026-10-31T14:21:12Z",
+   "source": "snap35",
+   "until_ts": "2026-10-31T16:21:12Z",
+   "last_lpn": 1,
+   "last_cc": 1,
+   "checks": 0
   }
  },
  "graduated": {
