@@ -13,11 +13,11 @@
    "discovered_at": "2026-10-31T16:13:38Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T18:13:30Z",
-   "last_lpn": 16,
-   "last_cc": 16,
-   "checks": 3,
+   "last_lpn": 19,
+   "last_cc": 17,
+   "checks": 4,
    "fails": 0,
-   "last_checked": "2026-10-31T17:01:07Z"
+   "last_checked": "2026-10-31T17:13:09Z"
   },
   "197400": {
    "title": "Однажды у ск будет конкурент и разраб начнёт работать ",
@@ -30,6 +30,34 @@
    "until_ts": "2026-10-31T19:01:05Z",
    "last_lpn": 1,
    "last_cc": 1,
+   "checks": 0,
+   "fails": 1,
+   "last_error": "404"
+  },
+  "197402": {
+   "title": "Однажды у ск будет конкурент, что придётся им работать ",
+   "slug": "197402-odnazhdy-u-sk-budet-konkurent-chto-pridyotsya-im-rabotat",
+   "createdAt": "2026-10-31T17:07:37+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T17:13:14Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T19:13:07Z",
+   "last_lpn": 2,
+   "last_cc": 2,
+   "checks": 0
+  },
+  "197401": {
+   "title": "Однажды у ск будет конкурент, что придётся им работать ",
+   "slug": "197401-odnazhdy-u-sk-budet-konkurent-chto-pridyotsya-im-rabotat",
+   "createdAt": "2026-10-31T17:07:06+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T17:13:14Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T19:13:07Z",
+   "last_lpn": 2,
+   "last_cc": 2,
    "checks": 0
   }
  },
