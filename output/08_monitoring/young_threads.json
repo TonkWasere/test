@@ -4,21 +4,6 @@
   "note": "young-thread queue (54-181)"
  },
  "threads": {
-  "197406": {
-   "title": "Повайбкодим пацаны",
-   "slug": "197406-povaybkodim-patsany",
-   "createdAt": "2026-10-31T18:28:09+00:00",
-   "op_user": "?",
-   "stm": false,
-   "discovered_at": "2026-10-31T18:28:22Z",
-   "source": "snap15-reconcile",
-   "until_ts": "2026-10-31T20:28:11Z",
-   "last_lpn": 7,
-   "last_cc": 7,
-   "checks": 7,
-   "fails": 0,
-   "last_checked": "2026-10-31T20:28:08Z"
-  },
   "197408": {
    "title": "Куда писать на счёт вылазов через текстуры как баг?",
    "slug": "197408-kuda-pisat-na-schyot-vylazov-cherez-tekstury-kak-bag",
@@ -30,9 +15,9 @@
    "until_ts": "2026-10-31T20:43:09Z",
    "last_lpn": 3,
    "last_cc": 3,
-   "checks": 6,
+   "checks": 7,
    "fails": 0,
-   "last_checked": "2026-10-31T20:28:10Z"
+   "last_checked": "2026-10-31T20:43:07Z"
   },
   "197407": {
    "title": "Что за дизинфа (Квест Ударная Волна)",
@@ -43,11 +28,11 @@
    "discovered_at": "2026-10-31T18:43:21Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T20:43:09Z",
-   "last_lpn": 9,
-   "last_cc": 9,
-   "checks": 6,
+   "last_lpn": 10,
+   "last_cc": 10,
+   "checks": 7,
    "fails": 0,
-   "last_checked": "2026-10-31T20:28:12Z"
+   "last_checked": "2026-10-31T20:43:09Z"
   },
   "197409": {
    "title": "Они повсюду... ",
@@ -60,9 +45,9 @@
    "until_ts": "2026-10-31T22:13:08Z",
    "last_lpn": 2,
    "last_cc": 2,
-   "checks": 1,
+   "checks": 2,
    "fails": 0,
-   "last_checked": "2026-10-31T20:28:13Z"
+   "last_checked": "2026-10-31T20:43:10Z"
   }
  },
  "graduated": {
@@ -472,6 +457,23 @@
    "fails": 0,
    "last_checked": "2026-10-31T19:28:09Z",
    "graduated_at": "2026-10-31T19:43:08Z",
+   "checks_done": 7
+  },
+  "197406": {
+   "title": "Повайбкодим пацаны",
+   "slug": "197406-povaybkodim-patsany",
+   "createdAt": "2026-10-31T18:28:09+00:00",
+   "op_user": "?",
+   "stm": false,
+   "discovered_at": "2026-10-31T18:28:22Z",
+   "source": "snap15-reconcile",
+   "until_ts": "2026-10-31T20:28:11Z",
+   "last_lpn": 7,
+   "last_cc": 7,
+   "checks": 7,
+   "fails": 0,
+   "last_checked": "2026-10-31T20:28:08Z",
+   "graduated_at": "2026-10-31T20:43:05Z",
    "checks_done": 7
   }
  }
