@@ -4,21 +4,6 @@
   "note": "young-thread queue (54-181)"
  },
  "threads": {
-  "197396": {
-   "title": "Тупорылейшая СИСТЕМА БАНОВ из за КНОПОЧКИ N прервать поиск матча",
-   "slug": "197396-tuporyleyshaya-sistema-banov-iz-za-knopochki-n-prervat-poisk-matcha",
-   "createdAt": "2026-10-31T14:15:38+00:00",
-   "op_user": "stm:76561199151839200",
-   "stm": true,
-   "discovered_at": "2026-10-31T14:21:12Z",
-   "source": "snap35",
-   "until_ts": "2026-10-31T16:21:12Z",
-   "last_lpn": 20,
-   "last_cc": 19,
-   "checks": 8,
-   "fails": 0,
-   "last_checked": "2026-10-31T16:13:32Z"
-  },
   "197398": {
    "title": "До какого тира сможет дойти средний игрок в сталзон за месяц?",
    "slug": "197398-do-kakogo-tira-smozhet-doyti-sredniy-igrok-v-stalzon-za-mesyats",
@@ -30,9 +15,9 @@
    "until_ts": "2026-10-31T17:00:30Z",
    "last_lpn": 11,
    "last_cc": 11,
-   "checks": 5,
+   "checks": 6,
    "fails": 0,
-   "last_checked": "2026-10-31T16:13:34Z"
+   "last_checked": "2026-10-31T16:28:07Z"
   },
   "197397": {
    "title": "Самая умная мысль ",
@@ -45,9 +30,9 @@
    "until_ts": "2026-10-31T17:00:30Z",
    "last_lpn": 7,
    "last_cc": 7,
-   "checks": 5,
+   "checks": 6,
    "fails": 0,
-   "last_checked": "2026-10-31T16:13:36Z"
+   "last_checked": "2026-10-31T16:28:09Z"
   },
   "197399": {
    "title": "Украинские надписи в Припяти",
@@ -58,9 +43,11 @@
    "discovered_at": "2026-10-31T16:13:38Z",
    "source": "snap15-reconcile",
    "until_ts": "2026-10-31T18:13:30Z",
-   "last_lpn": 3,
-   "last_cc": 3,
-   "checks": 0
+   "last_lpn": 7,
+   "last_cc": 7,
+   "checks": 1,
+   "fails": 0,
+   "last_checked": "2026-10-31T16:28:11Z"
   }
  },
  "graduated": {
@@ -317,6 +304,23 @@
    "fails": 0,
    "last_checked": "2026-10-31T16:00:01Z",
    "graduated_at": "2026-10-31T16:13:30Z",
+   "checks_done": 8
+  },
+  "197396": {
+   "title": "Тупорылейшая СИСТЕМА БАНОВ из за КНОПОЧКИ N прервать поиск матча",
+   "slug": "197396-tuporyleyshaya-sistema-banov-iz-za-knopochki-n-prervat-poisk-matcha",
+   "createdAt": "2026-10-31T14:15:38+00:00",
+   "op_user": "stm:76561199151839200",
+   "stm": true,
+   "discovered_at": "2026-10-31T14:21:12Z",
+   "source": "snap35",
+   "until_ts": "2026-10-31T16:21:12Z",
+   "last_lpn": 20,
+   "last_cc": 19,
+   "checks": 8,
+   "fails": 0,
+   "last_checked": "2026-10-31T16:13:32Z",
+   "graduated_at": "2026-10-31T16:28:05Z",
    "checks_done": 8
   }
  }
